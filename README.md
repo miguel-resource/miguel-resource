@@ -1,18 +1,13 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-### Hi there 👋
+### Hi there, I'm Miguel 👋🌆
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!--
-**miguel-resource/miguel-resource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About 🤔
+💻 I'm a front-end developer from Oaxaca de Juarez, Mexico. 
+🧰 I use daily: `.js`,`.html`,`.scss`,`.svg`, `.png`,`.ts`,`.json`.
+⚙️ My favorite tools: `firebase`, `figma`, `spotify`.
+❤️ Hobbies: **music**, **games**, **create ideas**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
