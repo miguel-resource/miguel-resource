@@ -6,7 +6,7 @@
 - 💻 I'm a front-end developer from Oaxaca de Juarez, Mexico. 
 - 🧰 I use daily: `.js`,`.html`,`.scss`,`.svg`, `.png`,`.ts`,`.json`.
 - ⚙️ My favorite tools: `firebase`, `git`, `figma`, `spotify`.
-- 📱 How to reache me: <a href="https://twitter.com/Miguel_Reside?t=L4LqBcHJbVlOc6R7n3b3ew&s=09" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/miguel-berm%C3%BAdez-cruz-797395192/" target="_blank">Linkedin</a> .
+- 📱 How to reache me: <a target="_blank" href="https://twitter.com/Miguel_Reside?t=L4LqBcHJbVlOc6R7n3b3ew&s=09">Twitter</a> or <a href="https://www.linkedin.com/in/miguel-berm%C3%BAdez-cruz-797395192/" target="_blank">Linkedin</a> .
 - ❤️ Hobbies: **music**, **games**, **create ideas**.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
